@@ -48,29 +48,16 @@ O modelo é composto por duas tabelas principais, relacionadas por código da lo
 - **Gráfico de pizza**: Distribuição por forma de pagamento
 - **Tabelas**: Ranking de produtos por faturamento e participação percentual (%)
 
-## 🔍 Principais insights
-
-- Período analisado: **jan/2023 a dez/2023**, totalizando **1.955 pedidos**
-- Faturamento total no período: **R$ 40,1 milhões**
-- Ticket médio: **R$ 20.518,85**
-- A **Matriz (São Paulo)** lidera o faturamento, seguida por **Filial 2 (Niterói)** e **Filial 1 (Vitória)**
-- **Bolsas** são a categoria de produto com maior faturamento, seguida por **mochilas** e **malas**
-- **Cartão de Crédito** é a forma de pagamento predominante (~62% dos pedidos), à frente de Transferência/PIX
 
 ## 🖼️ Prints do dashboard
 
 > Adicione aqui os prints do painel exportados do Power BI Desktop.
 
-![Visão geral do dashboard](screenshots/dashboard-geral.png)
+![Visão geral do dashboard]([screenshots/dashboard-geral.png](https://github.com/rhycarvalho/dashboard-vendas-powerbi/blob/main/dashboard-geral.png?raw=true))
 
 ## ▶️ Como visualizar
 
 1. Baixe o arquivo [`Relatorio_de_vendas.pbix`](Relatorio_de_vendas.pbix)
-2. Abra no **Power BI Desktop** (gratuito, [disponível aqui](https://powerbi.microsoft.com/desktop/))
+2. Abra no **Power BI Desktop**
 3. Explore os filtros e interações entre os visuais
 
-## 👤 Autor
-
-**Rhyan Carvalho**
-Graduado em Direito em transição para Análise de Dados / Legal Analytics
-🔗 [LinkedIn](#) · 🔗 [Outros projetos](#)
