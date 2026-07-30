@@ -50,7 +50,7 @@ O modelo é composto por duas tabelas principais, relacionadas por código da lo
 
 ## ▶️ Como visualizar
 
-1. Baixe o arquivo [`Relatorio de vendas.pbix`](Relatorio_de_vendas.pbix)
+1. Baixe o arquivo Relatorio de vendas.pbix e também o print.
 2. Abra no **Power BI Desktop**
 3. Explore os filtros e interações entre os visuais
 
