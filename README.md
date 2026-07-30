@@ -53,7 +53,7 @@ O modelo é composto por duas tabelas principais, relacionadas por código da lo
 
 > Adicione aqui os prints do painel exportados do Power BI Desktop.
 
-![Visão geral do dashboard]([screenshots/dashboard-geral.png](https://github.com/rhycarvalho/dashboard-vendas-powerbi/blob/main/dashboard-geral.png?raw=true))
+![Visão geral do dashboard](https://prnt.sc/5It5Dz4C1Gt9)
 
 ## ▶️ Como visualizar
 
